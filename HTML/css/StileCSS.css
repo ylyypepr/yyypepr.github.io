@@ -1,0 +1,35 @@
+body{}
+
+.shapka{
+background-color: #003399;
+text-align: center;
+color:#ffffff;
+}
+.sidebar{
+background-color: #ff66ff;
+color:#ffffff  ;
+vertical-align: top;
+}
+
+
+.sidebar2{
+background-color: #ffff00;
+color: #003399;
+}
+
+
+.main{
+background-color: #ffff00;
+color:#003399;
+vertical-align: top;
+text-align: center;
+
+}
+
+
+.index{
+vertical-align: top;
+text-align: center;
+background-color: #ffff00;
+color: #003399;
+}
